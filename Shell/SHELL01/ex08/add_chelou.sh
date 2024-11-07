@@ -1,0 +1,1 @@
+echo $(echo "obase=13;ibase=5;$(echo $FT_NBR1 | sed 'y/'"'"'\"?!''/01234/')+$(echo $FT_NBR2 | sed 'y/mrdoc/01234/')" | bc) | sed 'y/0123456789ABC/gtaio\ luSnemf/'
