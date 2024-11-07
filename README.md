@@ -1,4 +1,4 @@
-# Piscine 42 - École 42 Perpignan
+# Piscine - École 42 Perpignan
 
 Bienvenue dans mon repository de la **Piscine 42** ! Ce dépôt regroupe tous les projets que j'ai réalisés durant cette immersion intensive à l'École 42 de Perpignan. Cette période d'apprentissage accéléré m'a permis de développer des compétences fondamentales en programmation, en résolvant des exercices et des projets axés sur le **Shell** et le **langage C**.
 
